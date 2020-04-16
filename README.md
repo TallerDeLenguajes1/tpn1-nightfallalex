@@ -1,7 +1,7 @@
 # tpn1-nightfallalex
 tpn1-nightfallalex created by GitHub Classroom
 
-##### GitIgnore
+## GitIgnore
 
 #### ¿Por qué es conveniente incluirlo?
 
